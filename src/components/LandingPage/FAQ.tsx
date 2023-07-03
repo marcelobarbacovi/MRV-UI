@@ -12,7 +12,7 @@ export const FAQ = () => {
           </a>
           <h2>Dúvidas Frequentes</h2>
           <p>
-            Nesta sessão, alguns exemplos das dúvidas mais frequentes
+            Nesta sessão, algunMAS exemplos das dúvidas mais frequentes
             encontradas sobre retenção de serviços. <br />
             Para mais duvidas Acessar nosso FAQ de Perguntas e Respostas.
           </p>
